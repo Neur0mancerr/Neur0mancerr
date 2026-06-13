@@ -39,7 +39,7 @@ STATUS: ACTIVE ▌
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-neur0mancerr.github.io-05621d?style=for-the-badge&labelColor=050d08)](https://neur0mancerr.github.io)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-05621d?style=for-the-badge&labelColor=050d08)](https://linkedin.com/in/https://www.linkedin.com/in/bastian-wevar)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-05621d?style=for-the-badge&labelColor=050d08)](https://www.linkedin.com/in/bastian-wevar)
 
 </div>
 
